@@ -9,7 +9,7 @@
 - A avaliação deverá ser realizada individualmente.
 - Não é permitido o uso do celular durante a realização da atividade.
 - Cada questão vale 2 pontos.
-- Conceitos de entrada e saída de dados, variáveis, operadores e estruturas condicionais.
+- Conceitos de entrada e saída de dados, variáveis, operadores, estruturas condicionais, estruturas de repetição e estruturas de dados.
 - A entrega deverá ser feita no AVA. Deve ser enviado apenas o link do repositório do github.
 
 ## Passo-a-Passo (Clonar e Entrega)
